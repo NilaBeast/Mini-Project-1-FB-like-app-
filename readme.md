@@ -1,0 +1,1 @@
+This is an web application just like facebook where you can create an account, login into the account, create a post, like the post, edit the post(this is only for those who create that particular post).
